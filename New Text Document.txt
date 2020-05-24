@@ -1,0 +1,1 @@
+git push https://github.com/khanfarhan10/khanfarhan10.github.io.git

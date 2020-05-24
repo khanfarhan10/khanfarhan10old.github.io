@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 title                    : "Farhan Khan"
-title_separator          : "-"
-subtitle                 : "Data Scientist" # site tagline that appears below site title in masthead
+title_separator          : "|" #"-"
+subtitle                 : "Data Science Portfolio" # site tagline that appears below site title in masthead
 name                     : "Farhan Khan"
-description              : "Data Science Portfolio."
+description              : "Data Science Portfolio"
 url                      : "https://khanfarhan10.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "khanfarhan10/khanfarhan10.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -70,9 +70,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : khanfarhan10
 facebook:
-  username               :
+  username               : khanfarhanh
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Farhan Khan"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio."
+  bio              : "Data Science Portfolio"
   location         : "Kolkata, India."
   email            : "njrfarhandasilva10@gmail.com"
   links:
