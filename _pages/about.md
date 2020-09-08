@@ -8,7 +8,7 @@ header:
   excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
-
+<div style="padding-left: 30px;">
 I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
 
 Etc, etc, etc
@@ -67,3 +67,4 @@ Here's some math:
 $$z=x+y$$
 
 You can also put it inline $$z=x+y$$
+</div>
