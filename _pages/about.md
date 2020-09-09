@@ -15,7 +15,7 @@ mathjax: "true"
 
 ## Farhan Hai Khan, Electrical Engineer, Institute of Engineering & Management, Kolkata
 
-Farhan Hai Khan is a Data Science Geek currently pursueing Electrical Engineering at Institute of Engineering & Management, Kolkata, with experience working wth national teams and famous firms. His background in Artificial Intelligence, Machine Learning, Computer Vision & Deep Learning inform his technical and competitive approaches. Farhan is fueled by her passion for understanding the nuances of Neural Networks. He considers himself a ‘forever student,’ eager to both build on his academic foundations in AI and ML and stay in tune with the latest technological advancements through continued coursework.
+Farhan Hai Khan is a Data Science Geek currently pursueing Electrical Engineering at Institute of Engineering & Management, Kolkata, with experience working wth competitive teams and famous firms. His background in Artificial Intelligence, Machine Learning, Computer Vision & Deep Learning inform his technical and scientific approaches. Farhan is fueled by his passion for understanding the nuances of Neural Networks. He considers himself a ‘forever student,’ eager to both build on his academic foundations in AI and ML and stay in tune with the latest technological advancements through continued coursework.
 
 His hunger for knowledge and determination to turn information into action has contributed to her most recent success at various groups, where he led national, award-winning campaigns for respectable firms, such as Puma, Gucci, and Rolex. Meanwhile, he vastly improved the productivity of her team by implementing strategic project management methods and ensuring a work-life balance for his department.
 
@@ -54,12 +54,16 @@ My Resume
 
 ## Personal information
 
-* [mail](mailto:martin33156@gmail.com)
-* [github](https://github.com/genius92606)
+* Gmail - [khanfarhanpro@gmail.com](mailto:khanfarhanpro@gmail.com) ,  [njrfarhandasilva10@gmail.com](mailto:njrfarhandasilva10@gmail.com)
+* Github - [github.com/khanfarhan10](https://github.com/khanfarhan10)
+* Linkedin - [@fkpro](https://www.linkedin.com/in/fkpro/)
+* Instagram - [@i.am.the.swagger](https://www.instagram.com/i.am.the.swagger/)
+<!--
 * [facebook](https://www.facebook.com/profile.php?id=100000413662587&ref=bookmarks)
 * [instagram](https://www.instagram.com/dream_fall92606/)
 * [linkedin](https://www.linkedin.com/in/martin-lee-b02b08135/)
 * [twitter](https://twitter.com/genius92606)
+-->
 
 ## CONTACT ME
 A true coder is someone who learns from their earlier mistakes. 
