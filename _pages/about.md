@@ -43,6 +43,24 @@ and explore the unknown to make our lives meaningful.
 
 I learned how to code with different online and offline courses, StackOverflow and trial and error. Each project teaches me new skills. Below are some of the stages of my learning path and the skills I aquired.
 
+My Photo Gallery
+===
+![](/assets/projects/prague4.png)
+
+My Resume
+===
+
+
+<iframe src="https://drive.google.com/file/d/1pyk2LnJPUIFV9i1piAaFFQahEja9-q9Z/view?pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe src="https://drive.google.com/file/d/1pyk2LnJPUIFV9i1piAaFFQahEja9-q9Z/view?usp=sharing&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
+
+My Resume
+===
+
+<iframe src="https://docs.google.com/viewer?srcid=1SQbfoJVCF2CsKeYf77-7qay1KjlnGP1n&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
+
 
 ## Personal information
 
