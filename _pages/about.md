@@ -53,6 +53,10 @@ My Resume
 
 <iframe src="https://drive.google.com/file/d/1pyk2LnJPUIFV9i1piAaFFQahEja9-q9Z/view?pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
 
+https://docs.google.com/presentation/d/1pyk2LnJPUIFV9i1piAaFFQahEja9-q9Z/edit#slide=id.p1
+
+
+<iframe src="https://docs.google.com/viewer?srcid=1pyk2LnJPUIFV9i1piAaFFQahEja9-q9Z&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://drive.google.com/file/d/1pyk2LnJPUIFV9i1piAaFFQahEja9-q9Z/view?usp=sharing&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
 
