@@ -62,7 +62,8 @@ My Resume
 * [twitter](https://twitter.com/genius92606)
 
 ## CONTACT ME
-
+A true coder is someone who learns from their earlier mistakes. 
+<br>Feel free to contact me for any corrections | suggestions !
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form
