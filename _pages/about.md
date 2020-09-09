@@ -54,7 +54,7 @@ My Resume
 
 ## Personal information
 
-* Gmail - [khanfarhanpro@gmail.com](mailto:khanfarhanpro@gmail.com) ,  [njrfarhandasilva10@gmail.com](mailto:njrfarhandasilva10@gmail.com)
+* Gmail - [khanfarhanpro@gmail.com](mailto:khanfarhanpro@gmail.com) <!-- ,  [njrfarhandasilva10@gmail.com](mailto:njrfarhandasilva10@gmail.com)-->
 * Github - [github.com/khanfarhan10](https://github.com/khanfarhan10)
 * Linkedin - [@fkpro](https://www.linkedin.com/in/fkpro/)
 * Instagram - [@i.am.the.swagger](https://www.instagram.com/i.am.the.swagger/)
