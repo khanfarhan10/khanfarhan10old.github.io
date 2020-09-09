@@ -14,10 +14,6 @@ mathjax: "true"
 ---
 
 
-<figure style="width: 300px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/me.jpg" alt="">
-</figure> 
-
 <br>
 I just graduate from National Cheng Kung University(NCKU).
 I used to major in Biomedical Engineering(BME) but I want to transfer my major to Computer Science, 
