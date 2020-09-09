@@ -80,5 +80,5 @@ My Resume
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit" style="margin:0 auto;">Send</button>
 </form>
