@@ -32,7 +32,7 @@ I love technology and something new <br>
 I believe that people should be curious, passionate, <br>
 and explore the unknown to make our lives meaningful.
 
-
+I learned how to code with different online and offline courses, StackOverflow and trial and error. Each project teaches me new skills. Below are some of the stages of my learning path and the skills I aquired.
 
 
 ## Personal information
