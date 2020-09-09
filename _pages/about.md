@@ -43,7 +43,7 @@ and explore the unknown to make our lives meaningful.
 
 I learned how to code with different online and offline courses, StackOverflow and trial and error. Each project teaches me new skills. Below are some of the stages of my learning path and the skills I aquired.
 
-VMy Photo Gallery
+My Photo Gallery
 ===
 ![](/images/ecopark.jpg)
 
