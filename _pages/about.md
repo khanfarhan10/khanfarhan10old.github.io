@@ -66,25 +66,7 @@ A true coder is someone who learns from their earlier mistakes.
 <br>Feel free to contact me for any corrections | suggestions !
 <!-- modify this form HTML and place wherever you want your form -->
 
-<style>
-.container {
-  height: 200px;
-  position: relative;
-  border: 3px solid green;
-}
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-</style>
-
-<div class="container">
-  <div class="vertical-center">
-    <form
+<form
   action="https://formspree.io/xbjznznp"
   method="POST"
 >
@@ -99,10 +81,5 @@ A true coder is someone who learns from their earlier mistakes.
 
   <!-- your other form fields go here -->
 
-  <button type="submit" style="margin:0 auto;">Send</button>
+  <button type="submit" style="width: 300px; margin: 0 auto;" >Send</button>
 </form>
-
-  </div>
-</div>
-
-
