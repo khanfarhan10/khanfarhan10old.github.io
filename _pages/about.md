@@ -27,6 +27,15 @@ This is Farhan! I am a student currently pursueing Electrical Engineering at IEM
 I'm a person who views coding from a different perspective... And more importantly, enjoys it!
 I'm a Junior Data Scientist who excels at Data Wrangling, Machine Learning, Exploratory Analysis, and Data Visualizations.
 
+
+Hello, my name is Natassha Selvaraj. I am currently pursuing a computer science degree, and I major in data science. I have worked on a variety of data projects, which include data analysis, visualization, and implementing machine learning pipelines. I will showcase some of my projects here, and link them to their GitHub repositories.
+
+During my free time, I like to write and code. I enjoy working on HackerRank challenges, which help sharpen my mind and improve on my problem solving skills.
+
+When I'm not coding, I write on Medium. I like telling data stories around the data science projects that I do. I am currently a writer in publications such as The Startup, Better Programming, Towards Data Science, Level Up Coding, and Data Driven Investor.
+
+I stand by the quote "If you can't explain it to a six year old, you don't understand it well enough." I make it a point to set aside some time to create simple tutorials on a variety of data science tools. These tutorials are aimed towards beginners just starting out in the field. I have added links to some of my tutorials here.
+
 <br><br><br>
 I love technology and something new <br>
 I believe that people should be curious, passionate, <br>
