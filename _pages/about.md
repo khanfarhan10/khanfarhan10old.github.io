@@ -81,5 +81,5 @@ A true coder is someone who learns from their earlier mistakes.
 
   <!-- your other form fields go here -->
 
-  <button type="submit" style="width: 300px; margin: 0 auto;" >Send</button>
+  <button type="submit">Send</button>
 </form>
