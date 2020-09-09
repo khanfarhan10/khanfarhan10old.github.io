@@ -58,12 +58,10 @@ My Resume
 * Github - [github.com/khanfarhan10](https://github.com/khanfarhan10)
 * Linkedin - [@fkpro](https://www.linkedin.com/in/fkpro/)
 * Instagram - [@i.am.the.swagger](https://www.instagram.com/i.am.the.swagger/)
-<!--
-* [facebook](https://www.facebook.com/profile.php?id=100000413662587&ref=bookmarks)
-* [instagram](https://www.instagram.com/dream_fall92606/)
-* [linkedin](https://www.linkedin.com/in/martin-lee-b02b08135/)
-* [twitter](https://twitter.com/genius92606)
--->
+<!--* [facebook](https://www.facebook.com/profile.php?id=100000413662587&ref=bookmarks)-->
+<!--* [instagram](https://www.instagram.com/dream_fall92606/)-->
+<!--* [linkedin](https://www.linkedin.com/in/martin-lee-b02b08135/)-->
+<!--* [twitter](https://twitter.com/genius92606)-->
 
 ## CONTACT ME
 A true coder is someone who learns from their earlier mistakes. 
