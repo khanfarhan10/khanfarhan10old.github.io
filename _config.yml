@@ -99,24 +99,26 @@ author:
   location         : "Kolkata, India."
   email            : "khanfarhanpro@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:njrfarhandasilva10@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://https://crazycoderz6.webnode.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/genius92606"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/khanfarhanh"
+      url: "https://facebook.com/profile.php?id=100000413662587"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/khanfarhan10"
+      url: "https://github.com/genius92606"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/i.am.the.swagger"
+      url: "https://instagram.com/dream_fall92606/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/martin-lee-b02b08135/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UC9UxS_sopIll3xkbgaYD0IQ?"
+      
+
 
 # Site Footer
 footer:
