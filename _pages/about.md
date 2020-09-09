@@ -15,14 +15,23 @@ mathjax: "true"
 
 
 <br>
-I just graduate from National Cheng Kung University(NCKU).
-I used to major in Biomedical Engineering(BME) but I want to transfer my major to Computer Science, 
-and I am especially interested in Computer Graphics.
+## Farhan Hai Khan, Electrical Engineer, Institute of Engineering & Management, Kolkata
+Hello World!
+This is Farhan! I am a student currently pursueing Electrical Engineering at IEM Kolkata.
+I'm a person who views coding from a different perspective... And more importantly, enjoys it!
+I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
 
 <br><br><br>
 I love technology and something new <br>
 I believe that people should be curious, passionate, <br>
-and explore the unknown to make our life meaningful.
+and explore the unknown to make our lives meaningful.
+
+
+Farhan Hai Khan is a Data Science Geek currently pursueing Electrical Engineering at Institute of Engineering & Management, Kolkata, with experience working wth national teams and famous firms. His background in Artificial Intelligence, Machine Learning, Computer Vision & Deep Learning inform his technical and competitive approaches. Farhan is fueled by her passion for understanding the nuances of Neural Networks. He considers himself a ‘forever student,’ eager to both build on his academic foundations in AI and ML and stay in tune with the latest technological advancements through continued coursework.
+
+His hunger for knowledge and determination to turn information into action has contributed to her most recent success at various groups, where he led national, award-winning campaigns for respectable firms, such as Puma, Gucci, and Rolex. Meanwhile, he vastly improved the productivity of her team by implementing strategic project management methods and ensuring a work-life balance for his department.
+
+Farhan strongly believes mindfulness in the workplace is key to success - a tenet he lives out through his interests in chess, football, music and coding. Farhan is currently working as a Data Analytics Intern at TAkenMind and is always interested in a challenge. Reach out to khanfarhanpro@gmail.com to connect!
 
 ## Personal information
 
@@ -33,7 +42,4 @@ and explore the unknown to make our life meaningful.
 * [linkedin](https://www.linkedin.com/in/martin-lee-b02b08135/)
 * [twitter](https://twitter.com/genius92606)
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
 
