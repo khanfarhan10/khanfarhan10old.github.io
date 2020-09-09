@@ -61,4 +61,24 @@ My Resume
 * [linkedin](https://www.linkedin.com/in/martin-lee-b02b08135/)
 * [twitter](https://twitter.com/genius92606)
 
+## CONTACT ME
 
+<!-- modify this form HTML and place wherever you want your form -->
+
+<form
+  action="https://formspree.io/xbjznznp"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
