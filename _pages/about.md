@@ -3,13 +3,13 @@ title: "About"
 permalink: /about/
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Image : Gallery"
 header:
-  overlay_image: /images/zakim.jpg
+  overlay_image: /images/ecopark-edit.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Gallery**](https://kfpro.github.io//gallery/)"
   actions:
-    - label: "See Gallery"
+    - label: "See Photo Gallery"
       url: "https://kfpro.github.io//gallery/"
 #header:
   #image: "/images/zakim.jpg"
