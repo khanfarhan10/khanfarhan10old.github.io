@@ -7,10 +7,10 @@ excerpt: "Data Wrangling, Data Science, Messy Data"
 header:
   overlay_image: /images/zakim.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Gallery**](https://kfpro.github.io//gallery/)"
   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+    - label: "See Gallery"
+      url: "https://kfpro.github.io//gallery/"
 #header:
   #image: "/images/zakim.jpg"
   #excerpt: "Data Wrangling, Data Science, Messy Data"
