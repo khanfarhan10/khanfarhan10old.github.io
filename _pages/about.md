@@ -6,7 +6,7 @@ tags: [data wrangling, data science, messy data]
 excerpt: "Image : Gallery"
 header:
   overlay_image: /images/ecopark_small.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 1 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Gallery**](https://kfpro.github.io//gallery/)"
   actions:
     - label: "See Photo Gallery"
