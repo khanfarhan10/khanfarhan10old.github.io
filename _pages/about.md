@@ -20,7 +20,6 @@ last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 mathjax: "true"
 ---
-
 ## Farhan Hai Khan, Electrical Engineer, Institute of Engineering & Management, Kolkata
 
 Farhan Hai Khan is a Data Science Geek currently pursueing Electrical Engineering at Institute of Engineering & Management, Kolkata, with experience working wth competitive teams and famous firms. His background in Artificial Intelligence, Machine Learning, Computer Vision & Deep Learning inform his technical and scientific approaches. Farhan is fueled by his passion for understanding the nuances of Neural Networks. He considers himself a ‘forever student’, eager to both build on his academic foundations in AI & ML and stay in tune with the latest technological advancements through continued coursework.
@@ -29,24 +28,18 @@ His hunger for knowledge and determination to turn information into action has c
 
 Farhan strongly believes mindfulness in the workplace is key to success - a tenet he lives out through his interests in chess, football, music and coding. Farhan is currently working as a Data Analytics Intern at TakenMind and is always interested in a challenge. Reach out to khanfarhanpro@gmail.com to connect!
 
-Farhan is a person who views coding from a different perspective... And more importantly, enjoys it! He is a Junior Data Scientist who excels at Data Wrangling, Machine Learning, Exploratory Analysis, and Data Visualizations. He has worked on a variety of data projects, which include data analysis, visualization, and implementing machine learning pipelines. This website will showcase some of his projects here, and link them to their GitHub repositories.
+Farhan is a person who views coding from a different perspective... And more importantly, enjoys it! He is a Junior Data Scientist who excels at Data Wrangling, Machine Learning, Exploratory Analysis, and Data Visualizations. He has worked on a variety of data projects, which include data analysis, visualization, and implementing machine learning pipelines. This website will showcase some of his projects, and link them to their GitHub repositories. During his free time, Mr. Khan like to write and code. He enjoys working on Kaggle challenges, which help sharpen his mind and improve on his problem solving skills.
 
-During my free time, I like to write and code. I enjoy working on HackerRank challenges, which help sharpen my mind and improve on my problem solving skills.
+When he's not coding, Farhan writes on Medium. He loves writing informative stories around the data science projects that he does. He is currently a writer in publications such as The Startup, Better Programming, Towards Data Science, Level Up Coding, and Data Driven Investor. Farhan stands by the quote "If you can't explain it to a six year old, you don't understand it well enough" . Farhan makes it a point to set aside some time to create simple tutorials on a variety of data science tools, programming utilities and algorithms. These tutorials are aimed towards beginners just starting out in the field. You can find some of his tutorials here.
 
-When I'm not coding, I write on Medium. I like telling data stories around the data science projects that I do. I am currently a writer in publications such as The Startup, Better Programming, Towards Data Science, Level Up Coding, and Data Driven Investor.
 
-I stand by the quote "If you can't explain it to a six year old, you don't understand it well enough." I make it a point to set aside some time to create simple tutorials on a variety of data science tools. These tutorials are aimed towards beginners just starting out in the field. I have added links to some of my tutorials here.
-
-<br><br><br>
-I love technology and something new <br>
-I believe that people should be curious, passionate, <br>
-and explore the unknown to make our lives meaningful.
-
-I learned how to code with different online and offline courses, StackOverflow and trial and error. Each project teaches me new skills. Below are some of the stages of my learning path and the skills I aquired.
-
-My Photo Gallery
+Farhan loves technology and innovations. He believes that people should be curious, passionate, and should explore the unknown to make their lives meaningful.
+Farhan learned how to code with different online and offline courses, StackOverflow and trial and error. Each project teaches Farhan new skills. Embedded in this website are some of the stages of his learning path and the skills that he has acquired.
+<!--
+Photo Gallery
 ===
 ![](/images/ecopark.jpg)
+-->
 
 My Resume
 ===
