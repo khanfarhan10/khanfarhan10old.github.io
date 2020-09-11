@@ -22,6 +22,11 @@ mathjax: "true"
 ---
 ## Farhan Hai Khan, Electrical Engineer, Institute of Engineering & Management, Kolkata
 
+```python
+    Hello World !
+```
+
+
 Farhan Hai Khan is a Data Science Geek currently pursueing Electrical Engineering at Institute of Engineering & Management, Kolkata, with experience working wth competitive teams and famous firms. His background in Artificial Intelligence, Machine Learning, Computer Vision & Deep Learning inform his technical and scientific approaches. Farhan is fueled by his passion for understanding the nuances of Neural Networks. He considers himself a ‘forever student’, eager to both build on his academic foundations in AI & ML and stay in tune with the latest technological advancements through continued coursework.
 
 His hunger for knowledge and determination to turn information into action has contributed to her most recent success at various groups, where he led his teams to award-winning campaigns for respectable firms. Meanwhile, he vastly improved the productivity of her team by implementing strategic project management methods and ensuring a work-life balance for his department.
