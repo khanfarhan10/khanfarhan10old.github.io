@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [about,author]
 excerpt: "Image : Gallery"
 header:
   overlay_image: /images/ecopark_small.jpg
@@ -23,20 +23,13 @@ mathjax: "true"
 
 ## Farhan Hai Khan, Electrical Engineer, Institute of Engineering & Management, Kolkata
 
-Farhan Hai Khan is a Data Science Geek currently pursueing Electrical Engineering at Institute of Engineering & Management, Kolkata, with experience working wth competitive teams and famous firms. His background in Artificial Intelligence, Machine Learning, Computer Vision & Deep Learning inform his technical and scientific approaches. Farhan is fueled by his passion for understanding the nuances of Neural Networks. He considers himself a ‘forever student,’ eager to both build on his academic foundations in AI and ML and stay in tune with the latest technological advancements through continued coursework.
+Farhan Hai Khan is a Data Science Geek currently pursueing Electrical Engineering at Institute of Engineering & Management, Kolkata, with experience working wth competitive teams and famous firms. His background in Artificial Intelligence, Machine Learning, Computer Vision & Deep Learning inform his technical and scientific approaches. Farhan is fueled by his passion for understanding the nuances of Neural Networks. He considers himself a ‘forever student’, eager to both build on his academic foundations in AI & ML and stay in tune with the latest technological advancements through continued coursework.
 
-His hunger for knowledge and determination to turn information into action has contributed to her most recent success at various groups, where he led national, award-winning campaigns for respectable firms, such as Puma, Gucci, and Rolex. Meanwhile, he vastly improved the productivity of her team by implementing strategic project management methods and ensuring a work-life balance for his department.
+His hunger for knowledge and determination to turn information into action has contributed to her most recent success at various groups, where he led his teams to award-winning campaigns for respectable firms. Meanwhile, he vastly improved the productivity of her team by implementing strategic project management methods and ensuring a work-life balance for his department.
 
-Farhan strongly believes mindfulness in the workplace is key to success - a tenet he lives out through his interests in chess, football, music and coding. Farhan is currently working as a Data Analytics Intern at TAkenMind and is always interested in a challenge. Reach out to khanfarhanpro@gmail.com to connect!
+Farhan strongly believes mindfulness in the workplace is key to success - a tenet he lives out through his interests in chess, football, music and coding. Farhan is currently working as a Data Analytics Intern at TakenMind and is always interested in a challenge. Reach out to khanfarhanpro@gmail.com to connect!
 
-
-Hello World!
-This is Farhan! I am a student currently pursueing Electrical Engineering at IEM Kolkata.
-I'm a person who views coding from a different perspective... And more importantly, enjoys it!
-I'm a Junior Data Scientist who excels at Data Wrangling, Machine Learning, Exploratory Analysis, and Data Visualizations.
-
-
-Hello, my name is Natassha Selvaraj. I am currently pursuing a computer science degree, and I major in data science. I have worked on a variety of data projects, which include data analysis, visualization, and implementing machine learning pipelines. I will showcase some of my projects here, and link them to their GitHub repositories.
+Farhan is a person who views coding from a different perspective... And more importantly, enjoys it! He is a Junior Data Scientist who excels at Data Wrangling, Machine Learning, Exploratory Analysis, and Data Visualizations. He has worked on a variety of data projects, which include data analysis, visualization, and implementing machine learning pipelines. This website will showcase some of his projects here, and link them to their GitHub repositories.
 
 During my free time, I like to write and code. I enjoy working on HackerRank challenges, which help sharpen my mind and improve on my problem solving skills.
 
