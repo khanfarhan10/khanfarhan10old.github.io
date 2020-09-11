@@ -3,9 +3,17 @@ title: "About"
 permalink: /about/
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
+excerpt: "Data Wrangling, Data Science, Messy Data"
 header:
-  image: "/images/zakim.jpg"
-  excerpt: "Data Wrangling, Data Science, Messy Data"
+  overlay_image: /images/zakim.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+#header:
+  #image: "/images/zakim.jpg"
+  #excerpt: "Data Wrangling, Data Science, Messy Data"
 layout: archive
 author_profile: true
 last_modified_at: 2019-08-27T15:46:43-04:00
