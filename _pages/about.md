@@ -23,7 +23,7 @@ mathjax: "true"
 ## Farhan Hai Khan, Electrical Engineer, Institute of Engineering & Management, Kolkata
 
 ```python
-Hello World ! Let's code together !
+Hello World ! Let us write code together !
 ```
 
 
