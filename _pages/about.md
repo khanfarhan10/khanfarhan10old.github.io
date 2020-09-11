@@ -41,7 +41,7 @@ Photo Gallery
 ![](/images/ecopark.jpg)
 -->
 
-My Resume
+Resume
 ===
 
 <iframe src="https://docs.google.com/viewer?srcid=1pyk2LnJPUIFV9i1piAaFFQahEja9-q9Z&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
