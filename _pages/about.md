@@ -10,9 +10,9 @@ header:
   caption: "Photo credit: [**Gallery**](https://kfpro.github.io//gallery/)"
   actions:
     - label: "Foo Button"
-      url: "#foo"
+      url: "https://kfpro.github.io//about/"
     - label: "Bar Button"
-      url: "#bar"
+      url: "https://kfpro.github.io//about/"
 
 layout: archive
 author_profile: true
