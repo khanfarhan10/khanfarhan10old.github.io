@@ -288,7 +288,7 @@ defaults:
   # _projects
   - scope:
       path: "_pages"
-      type: projects
+      type: posts
     values:
       layout: single
       author_profile: true
