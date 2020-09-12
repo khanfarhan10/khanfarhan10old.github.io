@@ -1,16 +1,4 @@
----
-title: "Projects"
-permalink: /projects/
-layout: collection
-collection: projects
-entries_layout: grid
-classes: wide
-author_profile: true
----
 
-
-
-<!--
 ---
 layout: posts
 permalink: /projects/
@@ -19,7 +7,7 @@ author_profile: true
 header:
   image: "/images/fort point.png"
 ---
-Here are some of the core projects in Artificial Intelligence , Machine Learning , Deep Learning , Computer Vision , Data Structures , Algorithms , Python , Flask , Tensorflow , Pytorch , Keras , Scikit-Learn , OS-->
+Here are some of the core projects in Artificial Intelligence , Machine Learning , Deep Learning , Computer Vision , Data Structures , Algorithms , Python , Flask , Tensorflow , Pytorch , Keras , Scikit-Learn , OS
 
 
 
