@@ -9,7 +9,7 @@ header:
 Here are some of the core projects in Artificial Intelligence , Machine Learning , Deep Learning , Computer Vision , Data Structures , Algorithms , Python , Flask , Tensorflow , Pytorch , Keras , Scikit-Learn , OS
 
 {% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
+{% include group-by-array collection=site.projects field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
