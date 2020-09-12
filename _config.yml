@@ -249,7 +249,21 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+    
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+  about:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -273,7 +287,7 @@ defaults:
       author_profile: true
   # _projects
   - scope:
-      path: ""
+      path: "_pages"
       type: projects
     values:
       layout: single
