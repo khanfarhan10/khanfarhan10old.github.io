@@ -1,7 +1,7 @@
 ---
 title: "Eval Calc Python"
 date: 2018-01-28
-tags: [python, eval, basics, calculator]
+tags: [calculator]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Basic Eval Calculator in Python"
