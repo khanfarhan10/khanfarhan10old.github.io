@@ -1,63 +1,32 @@
 ---
-title: "Data Wrangling Project"
+title: "Eval Calculator in Python"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [python basics, calculator, flask]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/calc.jpg"
+excerpt: "Basic Flask Calculator Application in Python using the in-built Eval Function"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Simple Flask Calculator using Eval in Python
+#### Simple Calculator App using the eval function in Python. Deployed on the server using Flask.
+#### [Watch the live demo of the app here](http://khanfarhan10.pythonanywhere.com/) at http://khanfarhan10.pythonanywhere.com/ !  
 
-## H2 Heading
+# Usage  
 
-### H3 Heading
+### Simple Expressions
+![Simple Expression](/images/simple.png)
+![Simple Expression](/images/simple2.png)  
 
-Here's some basic text.
+### Complicated Expressions
+![Complicated Expression](/images/complicated.png)  
 
-And here's some *italics*
+# Tutorials  
+Some great tutorials that I learnt coding for this app are :
+* Quick Flask deployment using www.pythonanywhere.com : [Deploying Flask Apps Using Python Anywhere (2020) - by Pretty Printed](https://www.youtube.com/watch?v=5jbdkOlf4cY)
+* Detailed Flask Tutorial : [Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started - by Corey Schafer](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
+* GeeksforGeeks Explanation of the Eval Function : [eval in Python - by  Nikhil Kumar](https://www.geeksforgeeks.org/eval-in-python/)
+* Detailed Article on Towards Data Science : [Python eval() built-in-function - by Tanu N Prabhu](https://towardsdatascience.com/python-eval-built-in-function-601f87db191) 
+* Useful Tool for writing html files : [W3Schools Try HTML](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_form_checkbox)  
 
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+###### Note: If the live demo doesn't work anymore, or you need help on the topic feel free to reach out at njrfarhandasilva10@gmail.com.
