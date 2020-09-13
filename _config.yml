@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" #"neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,11 +21,11 @@ title_separator          : "|" #"-"
 subtitle                 : "Data Science Portfolio" # site tagline that appears below site title in masthead
 name                     : "Farhan Khan"
 description              : "Data Science Portfolio"
-url                      : "https://khanfarhan10.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kfpro.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "khanfarhan10/khanfarhan10.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : #"kfpro/kfpro.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/TeamFKlogo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/happy-face.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -51,8 +51,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -75,7 +75,7 @@ facebook:
   username               : khanfarhanh
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -97,26 +97,11 @@ author:
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Kolkata, India."
-  email            : "njrfarhandasilva10@gmail.com"
+  email            : "khanfarhanpro@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:njrfarhandasilva10@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://https://crazycoderz6.webnode.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/khanfarhanh"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/khanfarhan10"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/i.am.the.swagger"
+      url: "mailto:njrfarhandasilva10@gmail.com"
 
 # Site Footer
 footer:
@@ -264,24 +249,50 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+    
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
+  about:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
-  # _posts
+  # _pages
   - scope:
-      path: ""
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _projects
+  - scope:
+      path: "_projects"
       type: posts
     values:
+      layout: single
+      author_profile: false
+      read_time: true
       comments: true
+      share: true
+      related: true
