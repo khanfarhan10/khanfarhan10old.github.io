@@ -7,7 +7,7 @@ header:
   image: "/images/fort point.png"
 ---
 
-
+Welcome to my projects page!
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
